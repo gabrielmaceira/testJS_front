@@ -1,0 +1,68 @@
+[
+
+  {
+    "image": "/img/computer-1.png",
+    "name": "Legion Y520 15\"",
+    "tagline": "Crank up every setting to the max.",
+    "price": 729.99,
+    "youSave": 200,
+    "coupon": "DEALS",
+    "extra": "Free shipping!",
+    "rating": "5.0",
+    "numRatings": 120,
+    "processor": "Intel Core i3",
+    "os": "Windows 10 Profesional",
+    "memory": "16 GB RAM",
+    "hdd": "516 GB SSD",
+    "graphics": "NVIDIA Graphics 4"
+  },
+  {
+    "image": "/img/computer-2.png",
+    "name": "Legion Y920",
+    "tagline": "Take your gaming to new levels.",
+    "price": 729.99,
+    "youSave": 200,
+    "coupon": "DEALS",
+    "extra": "Free shipping!",
+    "rating": "5.0",
+    "numRatings": 120,
+    "processor": "Intel Core i3",
+    "os": "Windows 10 Profesional",
+    "memory": "16 GB RAM",
+    "hdd": "516 GB SSD",
+    "graphics": "NVIDIA Graphics 4"
+  },
+  {
+    "image": "/img/computer-3.png",
+    "name": "Legion Y700 17\"",
+    "tagline": "Crank up every setting to the max.",
+    "price": 729.99,
+    "youSave": 200,
+    "coupon": "DEALS",
+    "extra": "Free shipping!",
+    "rating": "5.0",
+    "numRatings": 120,
+    "processor": "Intel Core i3",
+    "os": "Windows 10 Profesional",
+    "memory": "16 GB RAM",
+    "hdd": "516 GB SSD",
+    "graphics": "NVIDIA Graphics 4"
+  },
+  {
+    "image": "/img/computer-4.png",
+    "name": "IdeaCentre Y900 RE",
+    "tagline": "Take your gaming to new levels.",
+    "price": 729.99,
+    "youSave": 200,
+    "coupon": "DEALS",
+    "extra": "Free shipping!",
+    "rating": "5.0",
+    "numRatings": 120,
+    "processor": "Intel Core i3",
+    "os": "Windows 10 Profesional",
+    "memory": "16 GB RAM",
+    "hdd": "516 GB SSD",
+    "graphics": "NVIDIA Graphics 4"
+  }
+
+]
